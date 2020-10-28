@@ -19,3 +19,4 @@ These workshops were presented October 14, 21, and 28 by [Engineering World Heal
 - What is an artificial neural network?
 - What is an artificial neuron (perceptron)?
 - Applying an ANN to breast cancer data
+- Note: the video on slide 4 can be viewed through `Perceptron.mp4`
